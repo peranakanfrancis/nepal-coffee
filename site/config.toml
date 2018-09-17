@@ -1,3 +1,9 @@
 baseurl = "/"
 languageCode = "en-us"
 title = "Thapa Coffee"
+
+# Metadata
+[params]
+  author = "Peranakan Francis"
+  description = 'Malaysian guy lives in Nepal working on his best effort to improve and boost the online browisng experieces for both local and foreign viewvers. He is also a winner of <a href="http://www.mwa.my/2017/may/khimyan-curry-a-malaysian-born-curry-paste">Malaysia Website Award 2017</a>.'
+  email = "francis.tch@gmail.com"
