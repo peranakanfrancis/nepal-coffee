@@ -1,9 +1,13 @@
-baseurl = "/"
-languageCode = "en-us"
+# Page settings
+baseurl = "http://thapa.coffee"
 title = "Thapa Coffee"
+description = ""
+keywords = ""
+languageCode = "en-us"
+logo = "logo.png"
 
-# Metadata
 [params]
+  # Meta
   author = "Peranakan Francis"
-  description = 'Malaysian guy lives in Nepal working on his best effort to improve and boost the online browisng experieces for both local and foreign viewvers. He is also a winner of <a href="http://www.mwa.my/2017/may/khimyan-curry-a-malaysian-born-curry-paste">Malaysia Website Award 2017</a>.'
+  description = 'Malaysian guy lives in Nepal working on his best effort to improve and boost the online browsing experiences for both local and foreign viewers. He is also a winner of <a href="http://www.mwa.my/2017/may/khimyan-curry-a-malaysian-born-curry-paste">Malaysia Website Award 2017</a>.'
   email = "francis.tch@gmail.com"
