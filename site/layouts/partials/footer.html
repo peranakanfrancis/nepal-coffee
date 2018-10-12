@@ -1,3 +1,5 @@
+{{ partial "fbchat" . }}
+
 <footer class="bg-black ph3 pv4 white">
 
 	<div class="mw7 center pt3">
@@ -18,28 +20,20 @@
 				<h3 class="f4 b lh-title mt0 mb1 primary">Thapa Coffee</h3>
 				<ul class="list mt0 mb3 pl0">
 					<li><a href="/" class="link">Home</a></li>
-					<li><a href="/about" class="link">About</a></li>
-					<li><a href="/products" class="link">Products</a></li>
-					<li><a href="/farm" class="link">Farm</a></li>
-					<li><a href="/values" class="link">Values</a></li>
-					<li><a href="/post" class="link">Blogs</a></li>
-					<li><a href="/contact" class="link">Contact</a></li>
+					<li><a href="/about" class="link">About us</a></li>
+					<li><a href="/farm" class="link">Our sustainable coffee farm</a></li>
+					<li><a href="/values" class="link">Our shade-grown method</a></li>
+					<li><a href="/products" class="link">Our coffee beans</a></li>
+					<li><a href="/contact" class="link">Contact us</a></li>
 				</ul>
 			</div>
 
 			<div>
 				<h3 class="f4 b lh-title mt0 mb1 primary">Find out more</h3>
 				<ul class="list mt0 mb3 pl0">
-					<li><a href="/post/jamaica-blue/" class="link">Raw Green Coffee Beans</a></li>
-					<li><a href="/post/brewing-chemex/" class="link">Raw Dark Coffee Beans</a></li>
-				</ul>
-			</div>
-
-			<div>
-				<h3 class="f4 b lh-title mt0 mb1 primary">Get in touch</h3>
-				<ul class="list mt0 mb3 pl0">
-				<li><a href="https://m.me/thapacoffee" target="_blank" class="link"></a>Messenger</li>
-				<li><a href="https://wa.me/31684683823" target="_blank" class="link"></a>WhatsApp</li>
+					<li><a href="/post/jamaica-blue/" class="link">Green coffee beans</a></li>
+					<li><a href="/post/brewing-chemex/" class="link">Raw coffee beans</a></li>
+					<li><a href="/post" class="link">Read all blogs</a></li>
 				</ul>
 			</div>
 
@@ -47,9 +41,9 @@
 				<h3 class="f4 b lh-title mt0 mb2 primary">Social media</h3>
 				<ul class="mhn2 mv0 pl0">
 					{{ partial "social-icon" (dict "link" "https://www.facebook.com/Thapa-Coffee-283802199125196/" "svg" "facebook") }}
-					{{ partial "social-icon" (dict "link" "#" "svg" "twitter") }}
 					{{ partial "social-icon" (dict "link" "#" "svg" "instagram") }}
-		<!--			{{ partial "social-icon" (dict "link" "#" "svg" "vimeo") }} -->
+					{{ partial "social-icon" (dict "link" "#" "svg" "twitter") }}
+					{{ partial "social-icon" (dict "link" "https://vimeo.com/290423418" "svg" "vimeo") }}
 				</ul>
 			</div>
 
