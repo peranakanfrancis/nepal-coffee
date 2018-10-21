@@ -12,8 +12,10 @@
       {{ .Content }}
     </div>
   </div>
+  <div class="fb-comments" data-mobile="true" data-href="{{ .Permalink }}" data-numposts="5"></div>
 
-  {{ template "_internal/disqus.html" . }}
+<!-- Unable to load Disqus JS (bug!!) -->
+<!-- {{ template "_internal/disqus.html" . }} -->
 
   {{ range where .Site.Pages.ByDate "Params.series" .Params.series }}
       {{ if gt $.Date.Unix .Date.Unix }}
