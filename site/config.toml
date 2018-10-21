@@ -7,6 +7,7 @@ keywords = "nepal coffee beans, coffee from nepal"
 languageCode = "en-us"
 logo = "logo.png"
 disqusShortname = "thapacoffee-netlify-com"
+copyright = "© Thapa & Thapa Coffee Farm 2018 All rights reserved"
 
 [params]
   # Meta

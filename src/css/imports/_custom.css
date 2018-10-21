@@ -7,3 +7,15 @@ input,
 textarea {
   font-family: inherit;
 }
+
+.copyright {
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    position: fixed;
+}
+
+.privacy-policy {
+    color: inherit;
+}
