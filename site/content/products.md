@@ -1,52 +1,49 @@
 ---
 title: Thapa & Thapa Coffee Farm
-subtitle: where Himalayan Organic Arabica Bourbon Coffee origin
+subtitle: origin Himalayan Organic Arabica Bourbon Coffee
 type: products
 page: /products.html
 image: /img/products/jumbotron.jpg
 heading: What we offer
 description: >-
-  Thapa is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+    Thapa's coffee beans are organically shade-grown at 1900 meter above the
+    sea-level. We take coffee production, roasting and brewing seriously and
+    we’re glad to pass that knowledge to anyone.
 intro:
   blurbs:
     - image: /img/illustrations/green-coffee-beans.jpg
       text: >
-        We sell raw green coffee beans that are sourced directly from
-        our own coffee plantation. All of our green coffee beans are organically
-        shade-grown at 1900 meter above the sea-level.
-    - image: /img/illustrations/dark-coffee-beans.jpg
+        Our Green Coffee Beans are grown on the higher altitude of Milche, one of
+        the highland that make up Nepal and are considered one of the
+        world's finest coffees. Roast them to your tastes.
+    - image: /img/illustrations/darker-roasted-coffee-beans.jpg
       text: >
-        We also sell dark and roasted coffee beans that are sourced directly from
-        our own farm. We’re proud to offer a variety of roasted coffee beans
-        grown with great care for the environment and local communities.
-    - image: /img/illustrations/coffee-gear.jpg
+        Darker Roasted Coffee Beans possess the characteristically sharp, winey
+        acidity typical of Himalayan Arabica coffees. This blend is medium to
+        full body and fairly rich in flavor.
+    - image: /img/illustrations/lighter-roasted-coffee-beans.jpg
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/illustrations/coffee-tutorial.jpg
+        Nepal produces less than one percent of the world's coffee, and most
+        of it is drunk by the Nepalese themselves. Our Lighter Roasted Coffee
+        Beans are a medium bodied coffee with a sweetly pleasant flavor.
+    - image: /img/illustrations/blend-roasted-coffee-beans.jpg
       text: >
-        Love a great cup of coffee, but never knew how to make one? Don't worry,
-        we’re here to help. You can schedule a custom 1-on-1 consultation with
-        us to learn anything you want to know about coffee roasting and brewing.
-#    - image: /img/illustrations/meeting-space.svg
+        Blend Roasted Coffee Beans give you that strong Himalayan flavor with
+        that rich and smooth Nepalese Roast to balance it out. This makes for a
+        sleek and strong pot of coffee.
+#     - image: /img/illustrations/meeting-space.svg
 #      text: >
 #        We believe that good coffee has the power to bring people together.
 #        That’s why we decided to turn a corner of our shop into a cozy meeting
 #        space where you can hang out with fellow coffee lovers and learn about
 #        coffee making techniques. All of the artwork on display there is for
 #        sale. The full price you pay goes to the artist.
-  heading: What we offer
+  heading: Thapa Coffee
   description: >
-    Thapa is the ultimate spot for coffee lovers who want to learn about our
-    Himalayan origin and support the farmers that grew it. We take coffee
-    production to roasting seriously and we’re glad to be able to share high quality
-    Nepali coffee productions to the anyone. We are ready to work with coffee
-    traders, distributors, retailers from all around the world.
+      Thapa believes that good coffee has the power to bring people together.
+      That's why we got our website all set up and going to venture out to meet
+      the likeliness. We are ready to work with coffee traders, distributors,
+      retailers from all around the world.
 main:
   heading: Great coffee with no compromises
   description: >
@@ -75,31 +72,35 @@ testimonials:
       quality coffee. I love their stance on empowering farmers and transparency.
 full_image: /img/products/products-full-width.jpg
 pricing:
-  heading: Monthly subscriptions
+  heading: Business Partnersip
   description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
+    Are you interested in importing our products into your country of
+    operations? Have you found that there is a huge demand for organic
+    coffee in your local market? If the answer to these question is a resounding
+    "yes!", then you might want to consider Thapa Coffee for fulfilling your
+    marketing needs.
   plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
+    - description: "We would be happy to help stock your shelves with our products."
       items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
-      plan: Small
-      price: '50'
-    - description: 'Great for avid drinkers, java-nsoving couples and bigger crowds'
+        - "MOQ from 100kg"
+        - "4 varieties of coffee beans"
+        - "FOB/CFR Door-to-Door shipping"
+      plan: "Wholesaler"
+      price: "750"
+    - description: "With our products, you can now offer your clients a new
+    alternative selection of coffee."
       items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
-      plan: Big
-      price: '80'
-    - description: Want a few tiny batches from different varieties? Try our custom plan
+        - "MOQ from 300kg"
+        - "4 varieties of coffee beans"
+        - "FOB/CFR Door-to-Door shipping"
+      plan: "Importer"
+      price: "2500"
+    - description: "We can pack under your own label, you can outsourcing
+    the production to us."
       items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
-      plan: Custom
-      price: '?'
+      - "MOQ of 100kg per variety"
+      - "Inclusive of packaging supplies"
+      - "FOB/CFR Door-to-Door shipping"
+      plan: "Private Label"
+      price: "1000"
 ---

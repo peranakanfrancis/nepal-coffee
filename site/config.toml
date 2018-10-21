@@ -1,8 +1,8 @@
 # Page settings
-baseurl = "http://thapa.coffee"
-title = "Thapa Coffee"
-description = ""
-keywords = ""
+baseurl = "http://thapacoffee.netlify.com"
+title = "Thapa"
+description = "Nepalese coffee farmer who produces and supply Organic Arabica Bourbon Coffee Beans. Contact us to sample our coffee from Nepal."
+keywords = "nepal coffee beans, coffee from nepal"
 languageCode = "en-us"
 logo = "logo.png"
 
