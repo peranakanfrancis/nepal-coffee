@@ -12,4 +12,17 @@
       {{ .Content }}
     </div>
   </div>
+
+  {{ range where .Site.Pages.ByDate "Params.series" .Params.series }}
+      {{ if gt $.Date.Unix .Date.Unix }}
+        {{ $.Scratch.Set "previous" .Permalink }}
+      {{ end }}
+  {{ end }}
+  {{ range where .Site.Pages.ByDate.Reverse "Params.series" .Params.series }}
+      {{ if lt $.Date.Unix .Date.Unix }}
+        {{ $.Scratch.Set "next" .Permalink }}
+      {{ end }}
+  {{ end }}
+
+{{ partial "next-previous" . }}
 {{ partial "footer" . }}

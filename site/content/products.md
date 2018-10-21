@@ -1,10 +1,10 @@
 ---
-title: Thapa & Thapa Coffee Farm
+title: Thapa Coffee
 subtitle: origin Himalayan Organic Arabica Bourbon Coffee
 type: products
 page: /products.html
 image: /img/products/jumbotron.jpg
-heading: What we offer
+heading: Our products
 description: >-
     Thapa's coffee beans are organically shade-grown at 1900 meter above the
     sea-level. We take coffee production, roasting and brewing seriously and
@@ -40,7 +40,7 @@ intro:
 #        sale. The full price you pay goes to the artist.
   heading: Thapa Coffee
   description: >
-      Thapa believes that good coffee has the power to bring people together.
+      We believes that good coffee has the power to bring people together.
       That's why we got our website all set up and going to venture out to meet
       the likeliness. We are ready to work with coffee traders, distributors,
       retailers from all around the world.
@@ -72,7 +72,7 @@ testimonials:
       quality coffee. I love their stance on empowering farmers and transparency.
 full_image: /img/products/products-full-width.jpg
 pricing:
-  heading: Business Partnersip
+  heading: Business Partnership
   description: >-
     Are you interested in importing our products into your country of
     operations? Have you found that there is a huge demand for organic
@@ -98,9 +98,9 @@ pricing:
     - description: "We can pack under your own label, you can outsourcing
     the production to us."
       items:
-      - "MOQ of 100kg per variety"
-      - "Inclusive of packaging supplies"
+      - "MOQ of 150kg per variety"
+      - "Label and packaging supplies"
       - "FOB/CFR Door-to-Door shipping"
       plan: "Private Label"
-      price: "1000"
+      price: "1250"
 ---
