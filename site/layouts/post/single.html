@@ -13,6 +13,8 @@
     </div>
   </div>
 
+  {{ template "_internal/disqus.html" . }}
+
   {{ range where .Site.Pages.ByDate "Params.series" .Params.series }}
       {{ if gt $.Date.Unix .Date.Unix }}
         {{ $.Scratch.Set "previous" .Permalink }}

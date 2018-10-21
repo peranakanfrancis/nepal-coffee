@@ -6,6 +6,7 @@ description = "Nepalese coffee farmer who produces and supply Organic Arabica Bo
 keywords = "nepal coffee beans, coffee from nepal"
 languageCode = "en-us"
 logo = "logo.png"
+disqusShortname = "thapacoffee-netlify-com"
 
 [params]
   # Meta
