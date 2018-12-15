@@ -1,6 +1,5 @@
 # Page settings
-#baseurl = "http://thapacoffee.netlify.com"
-baseurl = "/"
+baseurl = "https://thapa.coffee"
 title = "Thapa"
 description = "Nepalese coffee farmer who produces and supply Organic Arabica Bourbon Coffee Beans. Contact us to sample our coffee from Nepal."
 keywords = "nepal coffee beans, coffee from nepal"
@@ -14,3 +13,6 @@ copyright = "© Thapa & Thapa Coffee Farm 2018 All rights reserved"
   author = "Peranakan Francis"
   description = 'Malaysian guy lives in Nepal working on his best effort to improve and boost the online browsing experiences for both local and foreign viewers. He is also a winner of <a href="http://www.mwa.my/2017/may/khimyan-curry-a-malaysian-born-curry-paste">Malaysia Website Award 2017</a>.'
   email = "francis.tch@gmail.com"
+
+[permalinks]
+  post = "/:year/:month/:title/"
