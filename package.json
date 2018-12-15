@@ -45,7 +45,7 @@
     "netlify-cms": "^1.0.0",
     "postcss-cssnext": "^2.7.0",
     "postcss-import": "^11.0.0",
-    "postcss-loader": "^0.9.1",
+    "postcss-loader": "^0.13.0",
     "postcss-uncss": "^0.14.0",
     "svg-sprite-loader": "^0.1.2",
     "uncss": "^0.14.1",
