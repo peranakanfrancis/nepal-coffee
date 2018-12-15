@@ -10,9 +10,9 @@ copyright = "© Thapa & Thapa Coffee Farm 2018 All rights reserved"
 
 [params]
   # Meta
-  author = "Peranakan Francis"
+  author = "Kriss Thapa"
   description = 'Malaysian guy lives in Nepal working on his best effort to improve and boost the online browsing experiences for both local and foreign viewers. He is also a winner of <a href="http://www.mwa.my/2017/may/khimyan-curry-a-malaysian-born-curry-paste">Malaysia Website Award 2017</a>.'
-  email = "francis.tch@gmail.com"
+  email = "info@thapa.coffee"
 
-[permalinks]
-  post = "/:year/:month/:title/"
+#[permalinks]
+#  post = "/:year/:month/:title/"
