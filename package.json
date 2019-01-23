@@ -35,7 +35,7 @@
     "file-loader": "^0.9.0",
     "gulp": "^3.9.1",
     "gulp-babel": "^8.0.0",
-    "gulp-inject": "^4.2.0",
+    "gulp-inject": "^5.0.0",
     "gulp-postcss": "^6.1.1",
     "gulp-replace": "^0.5.4",
     "gulp-svgmin": "^1.2.3",
