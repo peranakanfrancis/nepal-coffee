@@ -6986,10 +6986,10 @@ postcss-svgo@^2.1.1:
     postcss-value-parser "^3.2.3"
     svgo "^0.7.0"
 
-postcss-uncss@^0.14.0:
-  version "0.14.0"
-  resolved "https://registry.yarnpkg.com/postcss-uncss/-/postcss-uncss-0.14.0.tgz#2f9f2b41acaf95434fee882704e813d73fab9e79"
-  integrity sha1-L58rQayvlUNP7ognBOgT1z+rnnk=
+postcss-uncss@^0.17.0:
+  version "0.17.0"
+  resolved "https://registry.yarnpkg.com/postcss-uncss/-/postcss-uncss-0.17.0.tgz#6a67eec47d545501c60353c3f188212928bc498e"
+  integrity sha512-1PmhtwiSVbsfAd+IYm5dvZYih9LUQQkTWLAn4xNE6q9RXsyjiLUytz074F4W3rYmTOhTtWnciVwWFdRxGJOjHg==
 
 postcss-unique-selectors@^2.0.2:
   version "2.0.2"
